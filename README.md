@@ -31,7 +31,8 @@ Deploy the model as a web application for real-time phishing detection.
 
 Integrate additional features for better classification.
 
-# DESMYK
+
+Done by Desmyk
 
 # lICENSE
 This project is licensed under the MIT License.
