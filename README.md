@@ -1,4 +1,4 @@
-# PHISHING DETECTION CAPSTONE PROJECT
+# PHISHING DETECTION PROJECT
 
 # PROJECT OVERVIEW
 This project focuses on detecting phishing websites using machine learning techniques. The goal is to develop a model that can accurately distinguish between legitimate and phishing websites based on various features. The project is implemented in Python using popular libraries like Scikit-learn, Pandas, Matplotlib, and Seaborn.
